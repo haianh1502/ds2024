@@ -1,0 +1,3 @@
+E:\Distributed System\ds2024\lab5\test1.txt
+E:\Distributed System\ds2024\lab5\test12.txt
+E:\Distributed System\ds2024\lab5\test123.txt
